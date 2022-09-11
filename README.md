@@ -4,7 +4,7 @@
 
 Para esta entrega hicimos dos versiones, dos intentos de la interpretacion de la actividad en Unity
 
-## Los archivos "conexion_mesa" y "main" son para crear el servidos que generaria la informacion de Unity, Para ver el servidor se necesita entrar a internet y buscar el local host (http://127.0.0.1:8585/)
+Los archivos "conexion_mesa" y "main" son para crear el servidos que generaria la informacion de Unity, Para ver el servidor se necesita entrar a internet y buscar el local host (http://127.0.0.1:8585/)
 
 1. En primer lugar es necesario descargar los archivos presentes en este unity con los nombres de:
  - Assets
