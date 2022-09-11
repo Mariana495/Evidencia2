@@ -2,6 +2,8 @@
 
 ## Archivos del proyecto de Unity para el simulador de cruce de tráfico.
 
+Para esta entrega hicismo dos verciones, dos intentos de la interpretacion de la actividad en Unity
+
 1. En primer lugar es necesario descargar los archivos presentes en este unity con los nombres de:
  - Assets
  - Packages
